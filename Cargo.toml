@@ -1,7 +1,14 @@
 [package]
 name = "tui-snake"
 version = "0.1.0"
+authors = ["NomisIV <simon@nomisiv.com>"]
 edition = "2018"
+description = "TUI implementation of Snake"
+repository = "https://github.com/NomisIV/tui-snake/"
+readme = "README.md"
+license = "MIT"
+keywords = [ "snake", "game", "tui" ]
+categories = [ "games" ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
